@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  
+  .btn {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .login {
+    font-size: 22px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .formGroup {
+      font-size: 22px;
+  }

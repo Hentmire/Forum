@@ -1,0 +1,42 @@
+.header{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.row{
+  margin-top: 10px;
+}
+
+.fa {
+  font-size: 24px;
+  float: left;
+}
+
+label {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.form-control {
+  font-size: 22px;
+}
+
+.btn {
+  font-size: 20px;
+}
+
+.btn-success {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.forgot-password {
+  font-size: 20px;
+}
+
+.register {
+  font-size: 22px;
+  margin-top: 10px;
+}
