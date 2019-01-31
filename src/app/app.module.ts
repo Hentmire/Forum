@@ -9,7 +9,7 @@ import { environment } from '../environments/environment';
 import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
-import { UserComponent } from './user/user.component';
+import { HomeComponent } from './home/home.component';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 import { VerifyEmailComponent } from './verify-email/verify-email.component';
 import { AppRoutingModule } from './app-routing.module';
@@ -22,7 +22,7 @@ import { AuthGuard } from './core/auth.guard';
     AppComponent,
     LoginComponent,
     RegisterComponent,
-    UserComponent,
+    HomeComponent,
     ForgotPasswordComponent,
     VerifyEmailComponent
   ],
